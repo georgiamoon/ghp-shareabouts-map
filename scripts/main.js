@@ -49,7 +49,7 @@ var Shareabouts = Shareabouts || {};
       el: '#shareabouts-container',
       // TODO: Set the initial location of your map
       map: {
-        center: [39.952780, -75.163136],
+        center: [40.7056308,-73.9780035],
         zoom: 12
       },
       // TODO: Update your map tiles. Kindly use your own since OpenPlans
@@ -83,7 +83,7 @@ var Shareabouts = Shareabouts || {};
 
       // TODO: Update this url to your dataset. THIS IS VERY IMPORTANT.
       // Now you're done!
-      datasetUrl: 'http://data.shareabouts.org/api/v2/demo-user/datasets/demo-data/places',
+      datasetUrl: 'http://data.shareabouts.org/api/v2/georgia//places',
 
       // These are template functions that expect geojson.
       templates: {

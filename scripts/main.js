@@ -83,7 +83,7 @@ var Shareabouts = Shareabouts || {};
 
       // TODO: Update this url to your dataset. THIS IS VERY IMPORTANT.
       // Now you're done!
-      datasetUrl: 'http://data.shareabouts.org/api/v2/openplans/datasets/atm_surcharge/places',
+      datasetUrl: 'http://api.shareabouts.org/api/v2/columbia1/datasets/rise/places',
 
       // These are template functions that expect geojson.
       templates: {
